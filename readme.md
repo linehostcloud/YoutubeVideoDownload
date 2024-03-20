@@ -5,7 +5,6 @@
 ![ShielddoProjeto](https://img.shields.io/badge/Projeto-YoutubeVideoDownload-ff0000.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0-34bf49.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Linguagem-Python-efdf00.svg?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/github/repo-size/linehostcloud/YoutubeVideoDownload?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/linehostcloud/YoutubeVideoDownload?style=for-the-badge)
 
 ---
