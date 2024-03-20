@@ -1,4 +1,5 @@
 ## Download de Vídeos do YouTube com Python usando Pytube
+_Baixe vídeos e playlists do Youtube de forma simples._
 
 ---
 
@@ -19,7 +20,7 @@ O Pytube é uma biblioteca Python simples e eficaz para baixar vídeos do YouTub
 #### Instruções de Uso:
 
 1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixar e instalar o Python a partir do site oficial: [Python.org](https://www.python.org/).
-2. nstale a biblioteca Pytube. Você pode instalar o Pytube usando pip, o gerenciador de pacotes Python. Execute o seguinte comando no terminal ou prompt de comando:
+2. Instale a biblioteca Pytube. Você pode instalar o Pytube usando pip, o gerenciador de pacotes Python. Execute o seguinte comando no terminal ou prompt de comando:
 
 ```python
 pip install pytube
