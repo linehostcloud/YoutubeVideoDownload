@@ -3,6 +3,11 @@ _Baixe vídeos e playlists do Youtube de forma simples._
 
 ---
 
+![Line Host Cloud stats](https://github-readme-stats.vercel.app/api?username=linehostcloud&show_icons=true&theme=dark)
+
+---
+
+
 ![ShielddoProjeto](https://img.shields.io/badge/Projeto-YoutubeVideoDownload-ff0000.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0-34bf49.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Linguagem-Python-efdf00.svg?style=for-the-badge)
